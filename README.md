@@ -5,6 +5,9 @@
 ## [Live Demo](https://hthrace.github.io/MonstersRolodex/)
 This app is deployed on [Github Pages](https://pages.github.com/) using [Github Actions](https://github.com/features/actions).
 
+## Looking For Legacy Skills?
+The Monsters Rolodex Project was initially built using React Hooks, a modern and widely adopted way to manage state and side effects in React applications. React Hooks provide simplicity and flexibility, making them an excellent choice for most use cases. However, in some situations, Class Components might be more suitable, especially when dealing with legacy code or integrating with external libraries. As such you can find this project rebuilt using class based components [here](https://github.com/Hthrace/MonstersRolodexClassComponents)
+
 ## Features
 
 - **Monster List**: Display a list of monsters with their names, images, and emails.
