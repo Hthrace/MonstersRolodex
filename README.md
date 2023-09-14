@@ -55,7 +55,7 @@ This will launch the app in your default web browser at `http://localhost:5173`.
 
 ## API Integration (JSONPlaceholder)
 
-This project integrates with the JSONPlaceholder API to fetch monster data for demonstration purposes. The API endpoints and requests are defined in the `src/api` directory. JSONPlaceholder is a free fake online REST API for testing and prototyping.
+This project integrates with the JSONPlaceholder API to fetch monster data for demonstration purposes. JSONPlaceholder is a free fake online REST API for testing and prototyping.
 
 You can find more information about JSONPlaceholder here: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
