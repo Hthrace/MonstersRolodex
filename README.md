@@ -2,11 +2,11 @@
 
 **Monsters Rolodex** is a React.js portfolio project that demonstrates React.js and state management techniques. It retrieves data from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) and allows you to filter the monsters by typing in a search box. This project showcases React.js skills, particularly in state management.
 
-## [Live Demo](https://hthrace.github.io/MonstersRolodex/)
+## [Live Demo](https://hthrace.github.io/monstersRolodex/)
 This app is deployed on [Github Pages](https://pages.github.com/) using [Github Actions](https://github.com/features/actions).
 
 ## Looking For Legacy Skills?
-The Monsters Rolodex Project was initially built using React Hooks, a modern and widely adopted way to manage state and side effects in React applications. React Hooks provide simplicity and flexibility, making them an excellent choice for most use cases. However, in some situations, Class Components might be more suitable, especially when dealing with legacy code or integrating with external libraries. As such you can find this project rebuilt using class based components [here](https://github.com/Hthrace/MonstersRolodexClassComponents)
+The Monsters Rolodex Project was initially built using React Hooks, a modern and widely adopted way to manage state and side effects in React applications. React Hooks provide simplicity and flexibility, making them an excellent choice for most use cases. However, in some situations, Class Components might be more suitable, especially when dealing with legacy code or integrating with external libraries. As such you can find this project rebuilt using class based components [here](https://github.com/Hthrace/monstersRolodexClassComponents)
 
 ## Features
 
@@ -24,13 +24,13 @@ Follow these steps to run the project locally and explore the state management i
 1. **Clone the Repository**: Start by cloning this repository to your local machine using Git:
 
 ```
-git clone https://github.com/Hthrace/MonstersRolodex.git
+git clone https://github.com/Hthrace/monstersRolodex.git
 ```
 
 2. **Navigate to the Project Directory**: Move to the project directory:
 
 ```
-cd MonstersRolodex
+cd monstersRolodex
 ```
 
 3. **Install Dependencies**: Install the project dependencies using npm:
